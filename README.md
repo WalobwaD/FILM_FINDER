@@ -12,6 +12,7 @@
 <p>The MOV-ZONE app is a simple vanilla javaScript and html project using plain CSS for styiling.</p>
 <li><b>Clone the Repo</b></li>
 
-``` bash
-git clone {url}
+``` jsx
+git clone {url of the code repo}
 ```
+<p>Make sure you clone the repo in an existing folder in your desktop, Open the folder and view the project via localhost/(open live server)</p>
